@@ -16,7 +16,7 @@ Etapa 3: Salvar para Reutilização
 2. O arquivo será salvo como "trajetoria_X.txt" (X é o índice do objeto)
 3. Use F9 para carregar a trajetória em execuções futuras
 
-## Controles Completos
+## Controles
 
 | Tecla | Função |
 |-------|--------|
