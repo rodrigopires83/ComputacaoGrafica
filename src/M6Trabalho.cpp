@@ -213,7 +213,7 @@ int main() {
         cerr << "Erro ao inicializar GLFW" << endl;
         return -1;
     }
-    GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "M4 - Phong", nullptr, nullptr);
+    GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "M6 - Rodrigo Pires", nullptr, nullptr);
     if (!window) {
         cerr << "Erro ao criar janela" << endl;
         glfwTerminate();
@@ -349,7 +349,7 @@ void key_callback(GLFWwindow* window, int key, int scancode, int action, int mod
             cout << "Objeto selecionado: " << objetoAtual << endl;
             break;
         
-        // Salvar/Carregar trajetória
+        // Salvar e Carregar trajetória
         case GLFW_KEY_F5:
             salvarTrajetoria(obj, "trajetoria_" + to_string(objetoAtual) + ".txt");
             break;
