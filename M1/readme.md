@@ -15,3 +15,22 @@ Etapa 3: Salvar para Reutilização
 1. Pressione F5 para salvar a trajetória atual
 2. O arquivo será salvo como "trajetoria_X.txt" (X é o índice do objeto)
 3. Use F9 para carregar a trajetória em execuções futuras
+
+## Controles Completos
+
+| Tecla | Função |
+|-------|--------|
+| T | Modo edição trajetória |
+| ESPAÇO | Adicionar ponto de controle |
+| P | Ativar/desativar trajetória |
+| C | Limpar pontos de controle |
+| V | Mostrar/ocultar pontos |
+| TAB | Alternar objeto |
+| F5 | Salvar trajetória |
+| F9 | Carregar trajetória |
+| WASD | Mover câmera |
+| Q/E | Mover câmera vertical |
+| Mouse | Rotacionar câmera |
+| X/Y/Z | Rotacionar objeto |
+| +/- | Escalar objeto |
+| ESC | Sair | 
